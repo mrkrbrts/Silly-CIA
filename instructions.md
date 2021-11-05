@@ -23,8 +23,24 @@ CIA To Shift Focus To Greeting Cards [link to: http://www.theonion.com/articles/
 
 ========
 
-NOTE: 
+PART 1: 
 
 * Be sure to turn the bulleted historic events into a list. 
 * Bold Porter Goss's name on first reference
 * Turn this note into a comment
+
+
+PART 2:
+
+Instructions
+Style the article using the following:
+
+Make the main headline dark green.
+Use the font family "Georgia" for the main headline and the sub-headline.
+Center the text of the main headline and the sub-headline.
+Make the paragraphs have a line height of 25 pixels.
+Remove the underline from the links.
+Make the "You might also like" label all uppercase.
+Bonus: Make an underline appear when you hover over a link.
+Bonus: Make the image 'float' to the left of the body content.
+
